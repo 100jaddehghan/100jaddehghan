@@ -1,12 +1,20 @@
-# Hi, I'm Sajad
+<h1 align="center">Hey, I’m Sajad 👋</h1>
 
-I build desktop and web applications with Python, focusing on practical workflows and Persian–English interfaces.
+<p align="center"><strong>Python · DevOps · Security</strong></p>
+<p align="center">I’m learning DevSecOps by building small Python services and taking them from commit to container.</p>
 
-## Selected projects
+---
 
-| Project | What it does |
-| --- | --- |
-| Neon Player | PyQt5 music player with a local library, synchronized lyrics, and a 10-band equalizer. |
-| Portfolio Site | Bilingual FastAPI portfolio with a blog and project pages. |
-| Customer Manager | Desktop app for tracking customers, payments, and reports. |
-| PnL Monitor Web | Web dashboard for monitoring events, sending alerts, and reviewing reports. |
+## ⚡ Featured project
+
+### [Secure Delivery Lab](https://github.com/100jaddehghan/secure-delivery-lab)
+
+A FastAPI service with a GitHub Actions pipeline that tests the code, audits dependencies, scans the container with Trivy, and publishes the verified image to GHCR.
+
+**`Test` → `Audit` → `Build` → `Scan` → `Publish`**
+
+[Explore the project](https://github.com/100jaddehghan/secure-delivery-lab#readme) · [See a successful run](https://github.com/100jaddehghan/secure-delivery-lab/actions/runs/45274858635) · [See a failed test demo](https://github.com/100jaddehghan/secure-delivery-lab/pull/1)
+
+## 🐍 In the Python community
+
+[How to tell if a regression test failed for the right reason](https://github.com/pytest-dev/pytest/discussions/15390#discussioncomment-19841835) — a small example using the same health check against two versions of a FastAPI service.
