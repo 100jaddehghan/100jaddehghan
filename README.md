@@ -1,7 +1,14 @@
 <h1 align="center">Hey, I’m Sajad 👋</h1>
 
-<p align="center"><strong>Python · DevOps · Security</strong></p>
-<p align="center">I’m learning DevSecOps by building small Python services and taking them from commit to container.</p>
+<p align="center"><strong>Cybersecurity · Python &amp; FastAPI · Windows development</strong></p>
+
+## About me
+
+I work in cybersecurity and build tools with Python. I write FastAPI services, develop Windows applications, and build plugins when an existing tool needs one more feature.
+
+I’ve recently started exploring DevOps hands-on with Docker and GitHub Actions. My current lab takes a small FastAPI service from commit to a tested, scanned container image.
+
+🍵 I drink enough tea to need a health check for the kettle.
 
 ---
 
