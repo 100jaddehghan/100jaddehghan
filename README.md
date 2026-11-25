@@ -12,7 +12,7 @@ I’ve recently started exploring DevOps hands-on with Docker and GitHub Actions
 
 ---
 
-## ⚡ Featured project
+## ⚡ Featured projects
 
 ### [Secure Delivery Lab](https://github.com/100jaddehghan/secure-delivery-lab)
 
@@ -21,6 +21,12 @@ A FastAPI service with a GitHub Actions pipeline that tests the code, audits dep
 **`Test` → `Audit` → `Build` → `Scan` → `Publish`**
 
 [Explore the project](https://github.com/100jaddehghan/secure-delivery-lab#readme) · [See a successful run](https://github.com/100jaddehghan/secure-delivery-lab/actions/runs/45274858635) · [See a failed test demo](https://github.com/100jaddehghan/secure-delivery-lab/pull/1)
+
+### [Taraaz](https://github.com/100jaddehghan/Taraaz)
+
+A bilingual Windows desktop app for tracking freelance projects, billable hours, and payments. Built with Python, PyQt6, and SQLite.
+
+[See the dashboard and run the demo](https://github.com/100jaddehghan/Taraaz#readme)
 
 ## 🛠️ Notes from the lab
 
